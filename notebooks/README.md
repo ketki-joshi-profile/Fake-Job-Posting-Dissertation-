@@ -1,3 +1,3 @@
 # Notebooks
 
-   Place your Jupyter notebooks (.ipynb), R Markdown files (.Rmd), or Google Colab notebooks here.
+Code files for Data cleaning, EDA, predictive analysis, feature selection and visualisation.
