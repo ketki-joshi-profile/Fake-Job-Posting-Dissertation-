@@ -1,3 +1,3 @@
 # Documentation
 
-Data dictionaries here.
+Data dictionary here.
